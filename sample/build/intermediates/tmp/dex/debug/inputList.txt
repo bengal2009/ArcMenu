@@ -1,0 +1,2 @@
+C:\Users\Lin\AndroidStudioProjects\ArcMenu\sample\build\intermediates\classes\debug
+C:\Users\Lin\AndroidStudioProjects\ArcMenu\sample\build\intermediates\pre-dexed\debug\classes-b633e6f4eb8bf2e77d5ab3bef748582eb4ab10d8.jar

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lin\AndroidStudioProjects\ArcMenu\sample\build\intermediates\exploded-aar\ArcMenu\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e94a376bef3f17804c7f621cb60aae6d11df084">
+        <dex dex="C:\Users\Lin\AndroidStudioProjects\ArcMenu\sample\build\intermediates\pre-dexed\debug\classes-b633e6f4eb8bf2e77d5ab3bef748582eb4ab10d8.jar" />
+    </item>
+
+</items>
